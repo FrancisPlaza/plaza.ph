@@ -6,6 +6,8 @@ date:   2021-01-25 04:02:00 +0800
 
 *Originally contributed as [an article](https://business.inquirer.net/316359/what-makes-a-good-founder) in the Philippine Daily Inquirer.*
 
+---
+\
 It was two in the morning in Manila. I was on a Zoom call with my fellow founder-CEOs during a Y Combinator workshop for companies that recently raised their Series As. Broken out into smaller groups, we were tasked with completing a certain number of things. One of the prompts said, “Show us something you have made recently.” Though it was simple, a minute into the session, we were staring at each other—through our screens—thinking deeply about what exactly have we accomplished that week.
 
 It is easy to get caught up with the idea that we’ve done so much. (And, no doubt, I am sure that we have.) But that prompt itself sounded beyond merely asking what we may have accomplished that week. Instead, it seemed more like the questions which I often find myself asking: Am I doing any good in my job? Did I earn my role as a CEO? Am I a good founder? And if so, how would I know? How do we measure what makes a good foun­der? What most startup founders find themselves grappling with, especially during the earliest stages of their companies, is that reasonable level of doubt as to whether they are on the right track to success. It is made more complicated by the fact that that report card almost always never comes.

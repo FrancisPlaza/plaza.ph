@@ -6,6 +6,8 @@ date:   2018-07-15 15:00:00 +0800
 
 *Originally published as [a contribution](https://www.rappler.com/life-and-style/careers/207339-team-building-lessons-olelo/) to Rappler. Republished with minor edits.*
 
+---
+\
 There are three important things to consider when founding a startup--team, team and team; everything else is secondary.
 
 This may sound rather cliché, but it’s true. Having founded and joined several startups in the past, I’ve seen and experienced first hand companies failing to fly off ground or some even end up crumbling, not because of technical difficulties or financial troubles, but rather of unsolvable team struggles.
