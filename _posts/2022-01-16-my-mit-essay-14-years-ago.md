@@ -8,6 +8,8 @@ date:   2022-01-16 15:05:00 +0800
 
 *Read on to get a glimpse of this 15-year old boy (not too long ago) with so much high hopes and ambitions in life—the same kid whose optimism and excitement about our world I aim to continue emulating.*
 
+---
+\
 My boardinghouse was just a five-minute walk away from school. While I cherished every moment of that walk, I could see the familiar views slowly coming into my senses—the almost tattered blue gates, dark orange brick-laden buildings and dirty white walls. In my nearly four years in high school, they never seem to disappear. I never really expected to enter the country’s premier science high school. At an early age, I believed that graduating high school and college in my hometown was no different from studying at a prestigious institution in Manila. After all, I never wanted to leave home at the early age of 12 to take a rigorous high school curriculum. But my perception changed when I passed a two-step national competitive examination.
 
 Entering the gates of my school brought me back to the memories of what was once my dream—now a reality. I never anticipated being one of the lucky few to ace science high school. I was confident with my abilities yet puzzled if I could complete my four years here. I left home with no idea of living in a new culture, different languages and many other exciting things. My first months were a period of adjustment, but I realized this experience would be the best of my four years in high school.
