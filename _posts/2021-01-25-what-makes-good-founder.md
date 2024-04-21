@@ -14,7 +14,6 @@ It is easy to get caught up with the idea that we’ve done so much. (And, no do
 
 Founders do not have a syllabus in which we can allocate specific points based on how we do in the company. There are, of course, business metrics that we can use as signals. But which ones? Do we look at revenue? Growth rate? Net revenue rate? And, if so, what do those say about our performance as a founder? Also, those metrics change a lot. The company can choose to focus on different underlying metrics at varying stages of the business.
 
-‘Rock star’ founders
 When you search on Google for “what makes a good startup founder,” you will get these listicles often enumerating qualities of what they consider to be “rock star” founders. These articles will tell you about traits like passion, communication and vision. But almost none of these resources comes close to telling you how we can measure success for a founder, what makes one great and how we can know if one’s doing well.
 
 Probably the most common way that startups, and in turn, their founders, are measured are valuation that venture capitalists and investors put on companies.
@@ -25,7 +24,6 @@ To an extent (and kudos to our team), we’ve built a strong reputation and clou
 
 Acknowledging that every day is day one is very important, especially for hot early-stage startups. Doing so sets the culture and tone of how hungry your company will be in driving more innovations. No company succeeds by being too comfortable at the top.
 
-Flawed measure
 Another severely flawed measuring stick that people use to evaluate founder success is the amount of publicity they get.
 
 Some founders tend to spend more time doing public relations (PR) that you’d think they do publicity better than actually running their companies. It’s no surprise. Being a founder of a startup is extremely hard. The validation one gets after a ton of PR can feel like a void is getting filled. But it doesn’t last, and it certainly does not solve any inherent problems in the company. A lot of companies earn a ton of hype, yet a lot of them fail.
@@ -40,7 +38,6 @@ Earlier this month, Salesforce announced that it signed a definitive agreement t
 
 This sale is by no means a small amount to brush over and certainly a big win for him. But many skeptics argued that maybe it was a signal that Stewart couldn’t succeed running a much bigger business.
 
-Big picture
 These stories remind us that we can never see the entire picture when it comes to startup founders, not even those we come to know as inspirations. It is hard to understand how well a founder is doing, more so if you are evaluating yourself. But if we can’t use traditionally accepted ways to assess a founder effectively, then how should we do it? Or should we even bother at all? I am convinced that there is no consistent rubric that we can use to judge the leadership of a startup. But it is still important to acknowledge and celebrate those who are making a dent in society through their companies.
 
 The founder in me hopes that even without a measuring stick, we continue to remain optimistic. After all, knowing that there is no consistent way to evaluate a founder is a reassuring reminder that no one starts as great. And in the absence of a report card, you can write your own chapter of a startup success story.
