@@ -12,11 +12,11 @@ Imagine a scenario where every Filipino, regardless of their socio-economic stat
 
 This vision is what excites me: the prospect of an economy where no one is left behind. With each transaction that bypasses traditional banking hurdles, we are slowly but surely paving the way for a more inclusive economic environment. The ripple effects of such a system are profound—improving household financial stability, fostering small business growth and ultimately driving national economic development.
 
-The beauty of inclusive instant payments lies in their simplicity and the doors they open. By removing complex barriers, we are paving the way for everyone to participate more fully in the economy. This not only enhances individual lives but also injects vitality into our national economy.
+The beauty of inclusive instant payments lies in their simplicity and the doors they open. By removing complex barriers, we are paving the way for everyone to participate more fully in the economy. This not only enhances individual lives but also strengthens our national economy.
 
 Moreover, the impact extends beyond individual financial health. These systems have the potential to enhance transparency, reduce corruption and increase the overall velocity of money in the economy. Each of these elements is crucial for the Philippines as we aim to foster a more robust, dynamic and equitable economic future.
 
-Launching Higala was a deeply personal milestone. With each transaction it facilitates, Higala isn't just moving money; it's weaving a more inclusive economic narrative. I imagine the countless individuals whose daily lives will be transformed: the small-scale vendor, like how my mom used to be, who can now seamlessly and cheaply receive payments from miles away, or the young entrepreneur in a remote area now connected to a world of possibilities, much like myself when I started.
+Launching Higala was a deeply personal milestone. With each transaction it facilitates, Higala isn't just moving money; it's weaving a more inclusive economic narrative. I imagine the countless individuals whose daily lives will be transformed: the small-scale vendor, like my mom in her past life, who can now seamlessly and cheaply receive payments from miles away, or the young entrepreneur in a remote area now connected to a world of possibilities, much like myself when I started.
 
 As I reflect on the paths carved by many technological revolutions that came before including the work we did building PayMongo in my previous startup life, I am filled with optimism about what we can achieve next. Just as mobile phones brought banking to the pockets of millions in Africa, instant payment systems like Higala can redefine economic participation for countless Filipinos.
 
