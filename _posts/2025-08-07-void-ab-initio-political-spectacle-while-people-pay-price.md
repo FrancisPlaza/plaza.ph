@@ -12,7 +12,7 @@ Let's call this what it is: a proxy war for 2028, wrapped in legalese and waged 
 
 This was never about the confidential funds. If it were, we'd see consistent scrutiny across all agencies, not just the one with Duterte on the nameplate. Nor is this a principled stand against the abuse of executive and legislative power, from congressional insertions to backdoor dealings masked as development. Many of those who sat comfortably through the last administration's abuses now cry foul over the vice-president's conduct, yet had no trouble looking the other way when the excesses were their own—or their cousin's. What changed? Only the colour of their alliances.
 
-The Senate vote to archive the complaint—backed by a Supreme Court ruling that it violated the one-year bar on impeachment—wasn't the end of anything. It was the opening act. In truth, the impeachment was dead on arrival. Everyone knew it. But still, it was filed. Still, it was debated. And still, it was performed—because performance is the point.
+The Senate vote to archive the complaint—backed by a controversial Supreme Court ruling, now under a motion for reconsideration from the House, citing a violation of the one-year bar on impeachment—wasn't the end of anything. It was the opening act. In truth, the impeachment was dead on arrival. Everyone knew it. But still, it was filed. Still, it was debated. And still, it was performed—because performance is the point.
 
 What was revealed wasn't just the end of a political alliance. That much has been obvious for some time. What this episode made clear is that the most pressing business of the Republic is not food security, not education reform, not economic recovery—but political survival.
 
