@@ -36,4 +36,4 @@ Enough of the shadowboxing dressed up as statesmanship.
 
 Enough of using institutions as weapons in a war the people never asked for.
 
-The Filipino deserves more than a front-row seat to this political circus. They deserve a government that works. Until then, no impeachment, filed or archived, will cleanse the stench of self-interest that now pervades the air of public service.
+The Filipino deserves more than a front-row seat to this political circus. They deserve a government that works forthwith. Until then, no impeachment, filed or archived, will cleanse the stench of self-interest that now pervades the air of public service.
