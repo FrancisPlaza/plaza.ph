@@ -20,7 +20,7 @@ Now the part we often dodge: us. We put them there. We sign the contract with ou
 
 We pretend this is an act of God. It is not. It is an act of government.
 
-Remember that the bill is paid elsewhere. A mother wades through waist-deep water because the dike exists only in a spreadsheet. A student misses class because the school budget funded a press conference. A farmer sells at a loss because the subsidy arrived as a photo-op. We call this "delivery", but what we deliver are excuses.
+Remember that the bill is paid elsewhere. Families lose homes twice: first to the flood, then to the debt that follows. A mother wades through waist-deep water because the dike exists only in a spreadsheet. A student misses class because the classroom is underwater. A farmer sells at a loss because the road disappears with the first heavy rain. We call this "delivery", but what we deliver are excuses.
 
 We have to learn. Stop rewarding people who sell excuses for clicks. Stop treating political relief as personal generosity. Choose leaders who publish the work, not just the ribbon. Choose platforms that interrogate, not entertain. If a candidate cannot show transparent costs, independent tests and on-time delivery, they should not be anywhere near a budget.
 
