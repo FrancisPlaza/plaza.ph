@@ -2,6 +2,7 @@
 layout: post
 title:  "AI will change Philippine law faster than you think"
 date:   2026-03-12 09:00:00 +0800
+description: "How AI is disrupting Philippine legal practice, leveling the field between large firms and provincial lawyers, while law schools lag dangerously behind."
 ---
 
 Somewhere in the US, [a transactional lawyer runs a two-person firm](https://x.com/zackbshapiro/status/2027389987444957625) that routinely outmanoeuvres teams ten times its size. His secret is mundane. He uploads a 40-page redlined agreement to an AI model, gets back a severity-rated analysis of every proposed change in minutes, applies tracked changes to the Word document without ever opening Word and sends a polished response package. All the research, redline and cover e-mail done within the hour. Work that once kept a bullpen of associates up past midnight now fits between lunch and a client call.

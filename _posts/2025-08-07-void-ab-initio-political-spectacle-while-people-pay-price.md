@@ -2,6 +2,7 @@
 layout: post
 title:  "Void ab initio: a political spectacle while the people pay the price"
 date:   2025-08-07 18:37:00 +0800
+description: "The VP Sara Duterte impeachment is a dynastic proxy war. While politicians perform, Filipinos face inflation, food insecurity, and institutional failure."
 ---
 
 It's a familiar scene in Philippine politics: the halls of power packed with moral outrage, constitutional arguments and righteous speeches, all while the country quietly bleeds. The attempted impeachment of vice-president Sara Duterte is only the latest performance in our long-running political drama. But behind the legal jargon and televised soundbites lies a bitter truth—this isn't about justice, and it certainly isn't about the people.

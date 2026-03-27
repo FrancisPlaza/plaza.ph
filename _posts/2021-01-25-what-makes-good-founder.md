@@ -2,6 +2,7 @@
 layout: post
 title:  "What makes a good founder?"
 date:   2021-01-25 04:02:00 +0800
+description: "Valuation and press often mislead founders. There's no consistent rubric for measuring founder success beyond staying true to your mission."
 ---
 
 *Originally contributed as [an article](https://business.inquirer.net/316359/what-makes-a-good-founder) in the Philippine Daily Inquirer.*

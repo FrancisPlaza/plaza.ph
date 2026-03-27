@@ -2,6 +2,7 @@
 layout: post
 title:  "Leaping towards financial inclusivity that I'm excited about"
 date:   2024-04-28 23:12:00 +0800
+description: "On launching Higala, the Philippines' first inclusive instant payments system, and how lowering barriers democratizes finance for the unbanked."
 ---
 
 Last week marked a significant step forward in transforming the financial infrastructure of the Philippines. As I reflect on [the launch of Higala](https://www.gmanetwork.com/news/money/companies/904862/instant-payment-startup-to-provide-below-p1-transaction-fees/story/), the first inclusive instant payments system in the country, I am profoundly excited about what it represents for the future of our nation's economy.

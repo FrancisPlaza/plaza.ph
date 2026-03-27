@@ -2,6 +2,7 @@
 layout: post
 title:  "A few lessons I learned that I wish someone had taught me"
 date:   2024-04-21 19:45:00 +0800
+description: "Ten hard-won lessons: embrace the unknown, maintain focus, build deep connections, think long-term, and don't be afraid to challenge the status quo."
 ---
 
 As they say, experience is the greatest teacher, but it doesn't hurt to have a guide along the way. Here are some invaluable lessons I've learned on my own journey—lessons I wish someone had shared with me as I was growing up:

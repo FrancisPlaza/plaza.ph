@@ -2,6 +2,7 @@
 layout: post
 title:  "It's not just about batteries"
 date:   2025-07-10 15:15:00 +0800
+description: "Electric vehicles are a paradigm shift, not just efficient cars. EV skepticism today mirrors 1995 doubts about the internet."
 ---
 
 In 1995, Bill Gates appeared on *The Late Show with David Letterman* to talk about the internet. It was still a new concept to most people. Gates explained that you'd be able to listen to a baseball game on your computer or read the news online. Letterman, with a bit of sarcasm, replied, “Does radio ring a bell?” The audience laughed. At the time, the internet felt like a solution looking for a problem. Why bother with the web when the radio already worked?

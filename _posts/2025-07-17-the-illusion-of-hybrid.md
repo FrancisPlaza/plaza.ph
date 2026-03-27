@@ -2,6 +2,7 @@
 layout: post
 title:  "The illusion of hybrid and why the Philippines should skip the half-step"
 date:   2025-07-17 20:53:00 +0800
+description: "Hybrids perpetuate combustion dependence. Why the Philippines should skip the half-step and leapfrog directly to full battery EVs."
 ---
 
 When people think of shifting to electric vehicles in the Philippines, many believe hybrids or plug-in hybrids (PHEVs) are the practical middle ground. A compromise between the old and the new. A safe transition.

@@ -2,6 +2,7 @@
 layout: post
 title:  "Close the tap"
 date:   2025-09-02 23:20:00 +0800
+description: "Specific policy reforms to end corruption in Philippine flood control: independent testing, performance bonds, blacklisting, and open contracting data."
 ---
 
 We keep pretending this is about a few bad contractors. It isn't. The "ghost projects" in flood control are what you get when politics designs the pipeline and paper moves money faster than concrete ever will. That's why, as both chambers drag flood control into the spotlight, you're seeing the same pattern of hearings filled with absences and subpoenas, district engineers on the hot seat and a public that's furious because the water keeps rising while a tiny circle gets richer.

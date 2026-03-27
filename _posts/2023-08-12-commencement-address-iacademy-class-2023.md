@@ -2,6 +2,7 @@
 layout: post
 title:  "Commencement address to the iAcademy Class of 2023"
 date:   2023-08-12 13:00:00 +0800
+description: "Three personal stories on building with purpose: finding ambition in humble beginnings, learning through failure, and creating things that genuinely matter."
 ---
 
 Wow! Look at this crowd!

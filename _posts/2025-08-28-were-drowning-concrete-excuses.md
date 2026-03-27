@@ -2,6 +2,7 @@
 layout: post
 title:  "We're drowning in concrete and excuses"
 date:   2025-08-28 09:05:00 +0800
+description: "Flood control projects that exist only on spreadsheets. The case for transparent contracts, independent testing, and real accountability in governance."
 ---
 
 We're told to be patient. Plans are underway, budgets are signed, renderings look impressive. Then the rain comes and the neighbourhood learns the truth: the projects were real only in the brochure.

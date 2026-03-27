@@ -2,6 +2,7 @@
 layout: post
 title:  "Starting a startup: Lessons in building a team"
 date:   2018-07-15 15:00:00 +0800
+description: "Team selection matters more than ideas. Lessons on finding adaptable talent, building genuine friendships, and distributing leadership in early-stage startups."
 ---
 
 *Originally published as [a contribution](https://www.rappler.com/life-and-style/careers/207339-team-building-lessons-olelo/) to Rappler. Republished with minor edits.*

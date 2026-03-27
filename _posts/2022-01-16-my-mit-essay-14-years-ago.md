@@ -2,6 +2,7 @@
 layout: post
 title:  "My MIT essay from 14 years ago"
 date:   2022-01-16 15:05:00 +0800
+description: "A college application essay written at 15 about Philippine Science High School, balancing technical rigor with humanities, and creative problem-solving."
 ---
 
 *This morning, Facebook reminded me of the college essay I wrote more than a decade ago for my MIT application. I thought it might be fun to share this with you today.*

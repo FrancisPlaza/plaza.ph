@@ -2,6 +2,7 @@
 layout: post
 title:  "I might not even make it to my 60's"
 date:   2024-04-24 14:55:00 +0800
+description: "A stoic reflection on life's brevity and why confronting mortality helps you focus on meaningful work, relationships, and what truly matters."
 ---
 
 Life is really short. That's something we all know, but often forget as we rush through our daily routines. Late at night, after long hours of meetings, when everything quiets down, the truth of it really sinks in. Suddenly, it feels real—life doesn’t go on forever.

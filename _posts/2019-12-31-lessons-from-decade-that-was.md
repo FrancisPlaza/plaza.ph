@@ -2,6 +2,7 @@
 layout: post
 title:  "Lessons from a decade that was"
 date:   2019-12-31 23:59:59 +0800
+description: "Ten life lessons from the 2010s: embrace failure early, take risks while young, prioritize relationships, and protect your most valuable asset—time."
 ---
 
 From the iPhone 4 to the landing of the Curiosity rover on the Red Planet, to changing political landscapes around the world—the 2010s we full of ideas and lessons learned. As we end the decade, I am now CEO of a Y Combinator startup based in Manila doing online payments. This story may sound all nice and rosy, but my last ten years did not go by without its bumps and bruises; it even all started with an unimaginable challenging first semester at MIT when I entered at the age of 16. I’ve since had my fair share of hard lessons. As they say, the days are long but the decades are short, indeed.

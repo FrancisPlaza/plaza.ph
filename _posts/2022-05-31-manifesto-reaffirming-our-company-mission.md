@@ -2,6 +2,7 @@
 layout: post
 title:  "Manifesto reaffirming our mission as a company"
 date:   2022-05-31 08:00:00 +0800
+description: "PayMongo's five core principles for building unparalleled payments infrastructure and growing the Philippines' internet economy."
 ---
 
 *In May 2022, I sent this e-mail to our team at PayMongo reaffirming our company mission.*

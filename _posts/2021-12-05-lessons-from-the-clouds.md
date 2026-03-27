@@ -2,6 +2,7 @@
 layout: post
 title:  "Lessons from the clouds"
 date:   2021-12-05 08:00:00 +0800
+description: "Reflections from 30,000 feet: be present, see the big picture, maintain momentum through turbulence, and commit fully to what you value."
 ---
 
 For the last eight minutes, my eyes have been scanning the ground and gazing through something unrecognisable. The surroundings of an airport have all become too familiar—terminals, jetways, taxiways and runways. As I looked through the vast and magnificent Doha airport, my mind wandered with amazement. The jet taxied silently, turn by turn, towards the long runway. The pilot spoke into the microphone at the cockpit, “Quebec Romeo One Four Five, ready for takeoff.” As we gained enough airspeed, the big Boeing 787 jet flew into the sky like it was nothing heavy in those few seconds that followed.
