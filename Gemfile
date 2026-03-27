@@ -32,5 +32,10 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-# Added because csv was removed from default gems in Ruby 3.4.0+
+# Added because these were removed from default gems in Ruby 3.4.0+
 gem "csv"
+gem "base64"
+gem "mutex_m"
+gem "logger"
+gem "drb"
+gem "observer"

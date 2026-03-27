@@ -3,10 +3,12 @@ GEM
   specs:
     addressable (2.8.9)
       public_suffix (>= 2.0.2, < 8.0)
+    base64 (0.3.0)
     bigdecimal (4.0.1)
     colorator (1.1.0)
     concurrent-ruby (1.3.6)
     csv (3.3.5)
+    drb (2.2.3)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -93,6 +95,8 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
+    mutex_m (0.3.0)
+    observer (0.1.2)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (7.0.5)
@@ -174,11 +178,16 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  base64
   csv
+  drb
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.3)
   jekyll-feed (~> 0.12)
+  logger
   minima (~> 2.5)
+  mutex_m
+  observer
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
