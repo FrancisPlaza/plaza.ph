@@ -7,6 +7,8 @@ description: "Ten hard-won lessons: embrace the unknown, maintain focus, build d
 
 As they say, experience is the greatest teacher, but it doesn't hurt to have a guide along the way. Here are some invaluable lessons I've learned on my own journey—lessons I wish someone had shared with me as I was growing up:
 
+<!--more-->
+
 1. Embrace the unknown with courage. Step into uncharted territories with confidence, as the most rewarding achievements often come from paths less taken.
 2. Keep your focus sharp. Concentrate on what's truly important and eliminate distractions. When you focus deeply, you create the potential for real impact.
 3. Turn challenges into growth opportunities. Embrace obstacles as chances to strengthen your resilience and learn. Every challenge is a stepping stone to betterment.

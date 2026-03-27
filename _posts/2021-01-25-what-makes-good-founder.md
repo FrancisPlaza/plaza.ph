@@ -13,6 +13,8 @@ It was two in the morning in Manila. I was on a Zoom call with my fellow founder
 
 It is easy to get caught up with the idea that we’ve done so much. (And, no doubt, I am sure that we have.) But that prompt itself sounded beyond merely asking what we may have accomplished that week. Instead, it seemed more like the questions which I often find myself asking: Am I doing any good in my job? Did I earn my role as a CEO? Am I a good founder? And if so, how would I know? How do we measure what makes a good foun­der? What most startup founders find themselves grappling with, especially during the earliest stages of their companies, is that reasonable level of doubt as to whether they are on the right track to success. It is made more complicated by the fact that that report card almost always never comes.
 
+<!--more-->
+
 Founders do not have a syllabus in which we can allocate specific points based on how we do in the company. There are, of course, business metrics that we can use as signals. But which ones? Do we look at revenue? Growth rate? Net revenue rate? And, if so, what do those say about our performance as a founder? Also, those metrics change a lot. The company can choose to focus on different underlying metrics at varying stages of the business.
 
 When you search on Google for “what makes a good startup founder,” you will get these listicles often enumerating qualities of what they consider to be “rock star” founders. These articles will tell you about traits like passion, communication and vision. But almost none of these resources comes close to telling you how we can measure success for a founder, what makes one great and how we can know if one’s doing well.

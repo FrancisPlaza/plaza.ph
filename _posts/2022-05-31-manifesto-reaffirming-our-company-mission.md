@@ -13,6 +13,7 @@ Team,
 
 We are at an interesting period in our history. You may have read on the news about the economic downturn and the looming recession across global markets. While no one can predict the future and how things will play out, we must prepare ourselves to brace for turbulence over the next several months.
 
+<!--more-->
 
 Our company is in a wonderful position. We have a great team, a healthy cash flow and built the beginnings of a solid foundation. I want to take this economic downturn as an opportunity for us to revisit our plans and targets and, most importantly, reaffirm our mission as a company.
 

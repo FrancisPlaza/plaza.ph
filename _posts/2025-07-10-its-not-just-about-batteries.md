@@ -11,6 +11,8 @@ We know how that story turned out.
 
 Today, the internet isn't something we think about. It's something we rely on. It has reshaped everything, from how we work and learn to how we talk to each other and get things done. What felt confusing or unnecessary at first became a normal part of life. So normal, in fact, that we barely notice it anymore.
 
+<!--more-->
+
 Electric vehicles are going through the same growing pains. And just like the internet back then, a lot of the questions today sound like we're still stuck in the past.
 
 People ask: *How far can it go? What if I run out of battery? Where will I charge?* These are valid concerns, but they’re also missing the point. Focusing only on batteries or range is like judging the internet by how fast a dial-up connection loads a webpage in 1995.

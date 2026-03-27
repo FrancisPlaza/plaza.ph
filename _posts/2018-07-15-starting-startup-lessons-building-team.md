@@ -11,6 +11,8 @@ description: "Team selection matters more than ideas. Lessons on finding adaptab
 \
 There are three important things to consider when founding a startup--team, team and team; everything else is secondary.
 
+<!--more-->
+
 This may sound rather cliché, but it’s true. Having founded and joined several startups in the past, I’ve seen and experienced first hand companies failing to fly off ground or some even end up crumbling, not because of technical difficulties or financial troubles, but rather of unsolvable team struggles.
 
 A team-centric approach to building startups isn’t exceptionally unheard of in the startup community. Paul Graham of Y-Combinator, for example, is known to be extremely particular about teams over ideas. Companies should not waste time with pointless power struggles and personal conflicts. In fact, I find myself more productive and challenged working with people whose personalities and talents are complementary. Chemistry is a good thing!

@@ -7,6 +7,8 @@ description: "A stoic reflection on life's brevity and why confronting mortality
 
 Life is really short. That's something we all know, but often forget as we rush through our daily routines. Late at night, after long hours of meetings, when everything quiets down, the truth of it really sinks in. Suddenly, it feels real—life doesn’t go on forever.
 
+<!--more-->
+
 Drawing from the wisdom of the stoics, I've learned to see this not just as a fact of life but as something that can push us to live better. Being stoic is about focusing on what's important: doing work that matters, spending time with loved ones and helping others. It teaches us to be present, to really live in the moment, and to throw ourselves into the things we care about.
 
 Now that I’m in my 30's, I think more about how I might not even make it to 60. That's not being pessimistic; it's a wake-up call to make every day count. It reminds me to avoid falling prey to pointless activities—like scrolling through social media for hours or worrying about things I can't control.

@@ -6,7 +6,9 @@ description: "Reflections from 30,000 feet: be present, see the big picture, mai
 ---
 
 For the last eight minutes, my eyes have been scanning the ground and gazing through something unrecognisable. The surroundings of an airport have all become too familiar—terminals, jetways, taxiways and runways. As I looked through the vast and magnificent Doha airport, my mind wandered with amazement. The jet taxied silently, turn by turn, towards the long runway. The pilot spoke into the microphone at the cockpit, “Quebec Romeo One Four Five, ready for takeoff.” As we gained enough airspeed, the big Boeing 787 jet flew into the sky like it was nothing heavy in those few seconds that followed.
- 
+
+<!--more-->
+
 As adults, we often forget the marvels of flying—our perspectives and outlooks in life change as we age. We grow up; we no longer want a window seat. We stop seeing flight as a miracle but simply as physics following the Bernoulli principle. And the same thing goes with life. Too often, we’ve become so occupied with the day-to-day that we no longer see the stuff of dreams in our lives.
  
 We forget. I, too, often forget.

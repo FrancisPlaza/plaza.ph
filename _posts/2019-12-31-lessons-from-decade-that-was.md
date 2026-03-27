@@ -7,6 +7,8 @@ description: "Ten life lessons from the 2010s: embrace failure early, take risks
 
 From the iPhone 4 to the landing of the Curiosity rover on the Red Planet, to changing political landscapes around the world—the 2010s we full of ideas and lessons learned. As we end the decade, I am now CEO of a Y Combinator startup based in Manila doing online payments. This story may sound all nice and rosy, but my last ten years did not go by without its bumps and bruises; it even all started with an unimaginable challenging first semester at MIT when I entered at the age of 16. I’ve since had my fair share of hard lessons. As they say, the days are long but the decades are short, indeed.
 
+<!--more-->
+
 As we approach the next stretch, I sat down and took a hard look at what has flown by. For what it’s worth, here are 10 life lessons I learned along the last decade, in hopes that this will help you along your own next 10:
 
 ### Seek and embrace failure early.

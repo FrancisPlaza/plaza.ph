@@ -7,6 +7,8 @@ description: "On launching Higala, the Philippines' first inclusive instant paym
 
 Last week marked a significant step forward in transforming the financial infrastructure of the Philippines. As I reflect on [the launch of Higala](https://www.gmanetwork.com/news/money/companies/904862/instant-payment-startup-to-provide-below-p1-transaction-fees/story/), the first inclusive instant payments system in the country, I am profoundly excited about what it represents for the future of our nation's economy.
 
+<!--more-->
+
 The transformative power of instant payment systems lies in their ability to democratise financial services. By lowering the barriers to entry, these services can offer a lifeline to those who have traditionally been excluded from the financial mainstream. It's not merely about facilitating quicker transactions but about creating opportunities for millions to engage in the economy on terms that were previously unattainable.
 
 Imagine a scenario where every Filipino, regardless of their socio-economic status or geographic location, has instant access to financial services no matter where they bank. This isn’t just convenient; it’s life-changing. It means that a farmer in a remote area can receive payment for his produce instantly into his rural bank account without hefty transaction fees or a vendor in a bustling city can manage her earnings within her e-wallet more efficiently and securely.

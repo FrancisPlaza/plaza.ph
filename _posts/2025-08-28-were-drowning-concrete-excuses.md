@@ -7,6 +7,8 @@ description: "Flood control projects that exist only on spreadsheets. The case f
 
 We're told to be patient. Plans are underway, budgets are signed, renderings look impressive. Then the rain comes and the neighbourhood learns the truth: the projects were real only in the brochure.
 
+<!--more-->
+
 This isn't a weather story. It's governance dressed as flood control. We perform delivery instead of delivering it. Hearings chase headlines. Portals overflow with links and data no one can audit. Contractors appear when cameras roll and disappear when the water does not.
 
 I'm not asking for less accountability. I want the real thing. Accountability that names names, recovers money and jails thieves. Accountability that publishes contracts, unit costs and change orders. Consequences, not captions.

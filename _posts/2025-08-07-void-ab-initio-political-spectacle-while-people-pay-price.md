@@ -7,6 +7,8 @@ description: "The VP Sara Duterte impeachment is a dynastic proxy war. While pol
 
 It's a familiar scene in Philippine politics: the halls of power packed with moral outrage, constitutional arguments and righteous speeches, all while the country quietly bleeds. The attempted impeachment of vice-president Sara Duterte is only the latest performance in our long-running political drama. But behind the legal jargon and televised soundbites lies a bitter truth—this isn't about justice, and it certainly isn't about the people.
 
+<!--more-->
+
 The House of Representatives insists this is a matter of accountability. The vice-president's allies say it's all political vendetta. Both claim to be protecting democracy. Neither seems interested in protecting the Filipino public from the damage their infighting is causing.
 
 Let's call this what it is: a proxy war for 2028, wrapped in legalese and waged at the people's expense.

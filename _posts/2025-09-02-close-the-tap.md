@@ -7,6 +7,8 @@ description: "Specific policy reforms to end corruption in Philippine flood cont
 
 We keep pretending this is about a few bad contractors. It isn't. The "ghost projects" in flood control are what you get when politics designs the pipeline and paper moves money faster than concrete ever will. That's why, as both chambers drag flood control into the spotlight, you're seeing the same pattern of hearings filled with absences and subpoenas, district engineers on the hot seat and a public that's furious because the water keeps rising while a tiny circle gets richer.
 
+<!--more-->
+
 This is not conjecture. The Senate's blue ribbon has opened a *motu proprio* probe, the infrastructure committee of the House started its own hearing today—even Malacañan is signalling a full-court press. When a contractor turns up to the Senate and invokes the right against self-incrimination, and the President talks about substandard and non-existent projects, you know the rot isn't anecdotal.
 
 Public anger isn't abstract either. [The Bureau of Customs has said](https://www.gmanetwork.com/news/topstories/nation/957203/customs-to-probe-discaya-couple-s-40-luxury-cars/story/) it will examine a contractor couple's reported stable of luxury cars (the same couple whose firm cornered flood control deals) and senators have already issued subpoenas to firms that snubbed the first hearing. Families in waist-deep water watching Instagram tours of garages is the worst possible optics. That spectacle would be bad enough if the work were late or shoddy. It's unforgivable if the work never existed.

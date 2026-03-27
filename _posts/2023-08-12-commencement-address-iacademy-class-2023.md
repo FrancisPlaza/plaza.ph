@@ -21,6 +21,8 @@ You know, standing here, I'm hit with a wave of nostalgia. Ten years ago, I was 
 
 But here we are, and as I look at all of you, I can't help but feel a surge of excitement for the future. A future that's in your hands. A future where everyone gets a shot at finding their purpose. Now, I could stand here and give you the usual spiel about chasing your dreams, but let's be real—you've heard that before. I believe there's something deeper, something more profound to discuss. Today, I'm not just here to inspire you to build; I'm here to challenge you to build with intention, with a heart. I'll be sharing three stories from my own life, each a testament to the power of building things that truly matter. Not just to make a name, not just to fill a bank account, but to genuinely make a difference.
 
+<!--more-->
+
 The first story is about finding ambition in humble beginnings.
 
 Now imagine, if you will, the tranquil town of Sogod in the province of Southern Leyte. It's not Silicon Valley, but it's where my story begins. My family wasn't the kind you'd read about in success magazines. My father kept watch as a security guard, and my mom—she was the heartbeat of our local elementary school canteen. Between them, they taught me lessons no classroom ever could. They showed me the value of hard work, the importance of grit and the beauty of simple joys.
